@@ -1,0 +1,10 @@
+# Ignore generated folders
+Cleanblog-Example/[Bb]in/**
+Cleanblog-Example/[Oo]bj/**
+Cleanblog-Example/[Oo]utput/**
+Cleanblog-Example/[Cc]ache/**
+Cleanblog-Example/[Tt]emp/**
+Cleanblog-Example/wwwroot/**
+
+# Not sure if this is needed
+.mono/**
